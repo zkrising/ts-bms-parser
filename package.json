@@ -1,0 +1,15 @@
+{
+	"name": "ts-bms-parser",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {},
+	"keywords": [],
+	"author": "",
+	"license": "BMS",
+	"dependencies": {
+		"eslint": "^8.31.0",
+		"eslint-plugin-cadence": "^0.1.0",
+		"typescript": "^4.9.4"
+	}
+}

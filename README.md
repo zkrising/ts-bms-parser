@@ -1,5 +1,11 @@
 # Typescript BMS Parser
 
+**I HAVE AN ACTUAL TYPESCRIPT BMS TABLE PARSER [HERE](https://github.com/zkldi/bms-table-loader)**
+
+**THIS IS A JOKE LIBRARY. IT'S A JOKE. DON'T USE IT!**
+
+*****
+
 This small library (0 sloc) is a BMS parser written in TypeScript.
 
 ![](https://cdn.discordapp.com/attachments/701306166772367386/1059687223383035924/image.png)
